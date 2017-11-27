@@ -10,6 +10,7 @@ source 'https://rails-assets.org' do
 end
 
 gem 'bootstrap', '4.0.0.alpha6'
+gem 'devise'
 gem 'jquery-rails'
 gem 'jquery-ui-rails'
 gem 'popper_js', '~> 1.11.1'

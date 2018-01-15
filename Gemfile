@@ -10,7 +10,10 @@ source 'https://rails-assets.org' do
 end
 
 gem 'bootstrap', '4.0.0.alpha6'
+gem 'carrierwave', '~> 1.0'
 gem 'devise'
+gem 'figaro'
+gem 'fog-aws'
 gem 'jquery-rails'
 gem 'jquery-ui-rails'
 gem 'popper_js', '~> 1.11.1'
